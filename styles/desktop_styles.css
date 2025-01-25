@@ -10,9 +10,11 @@ body {
   place-items: center;
 }
 
-main article {
-  width: 40%;
-  margin-bottom: 60px;
+main header article {
+  width: 100%;
+}
+main header article p {
+  width: 60%;
 }
 
 .card {
