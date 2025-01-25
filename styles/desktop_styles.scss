@@ -9,7 +9,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(5, auto);
-    width: 80%;
+    // width: 80%;
     place-items: center;
 }
 
@@ -22,10 +22,6 @@ main {
 
 .card {
     padding: 0 20px 20px 20px;
-
-    article {
-        width: 100%;
-    }
     div {
         img {
             width: 50px;
